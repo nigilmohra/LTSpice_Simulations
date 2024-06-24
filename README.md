@@ -1,4 +1,4 @@
-# LTSpice_Simulations
+# LTSpice Simulations
 This repository contains SPICE simulations carried out during my bachelor's.
 
 ## Notes
