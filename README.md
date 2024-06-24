@@ -1,5 +1,5 @@
 # LTSpice Simulations
-![image](https://github.com/nigilmohra/LTSpice_Simulations/assets/82286406/643c08f9-07b9-4bb2-840c-319371477a27 | width=100)
+<img src="(https://github.com/nigilmohra/LTSpice_Simulations/assets/82286406/643c08f9-07b9-4bb2-840c-319371477a27" width="100" height="100">
 This repository contains SPICE simulations carried out during my bachelor's.
 
 ## Notes
