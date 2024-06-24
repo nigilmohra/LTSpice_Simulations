@@ -1,5 +1,5 @@
 # LTSpice Simulations
-![image](https://github.com/nigilmohra/LTSpice_Simulations/assets/82286406/ad5065ff-305d-423f-b1ed-f263ce5e19ba)
+[![image](https://github.com/nigilmohra/LTSpice_Simulations/assets/82286406/ad5065ff-305d-423f-b1ed-f263ce5e19ba)](https://upload.wikimedia.org/wikipedia/en/c/c0/Linear_Technology_Corporation_logo.svg)
 This repository contains SPICE simulations carried out during my bachelor's.
 
 ## Notes
