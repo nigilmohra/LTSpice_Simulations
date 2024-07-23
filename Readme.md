@@ -3,3 +3,4 @@ This repository contains SPICE simulations carried out during my bachelor's as a
 
 The **LTSpice Libraries** folder contains schematics and netlists for various components that are not available in the default LTSpice version.
 
+<code style = "color : red"> **NO FURTHER UPDATES TO THIS REPOSITORY** </code>
