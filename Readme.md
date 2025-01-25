@@ -3,6 +3,4 @@ This repository contains SPICE simulations carried out during my bachelor's as a
 
 **_Notice_** : _There might be mistakes in the simulations or calculations. If you find any, feel free to report them at:_ [nigilconnects@gmail.com](mailto:nigilconnects@gmail.com)
 
--- **Organized** --
-
 
