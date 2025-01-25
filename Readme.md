@@ -3,9 +3,7 @@ This repository contains SPICE simulations carried out during my bachelor's as a
 
 The **LTSpice Libraries** folder contains schematics and netlists for various components that are not available in the default LTSpice version.
 
-## Notice
-
+**_Notice_**
 There might be mistakes in the simulations or calculations. If you find any, feel free to report them at:
-
 **Email:** [nigilconnects@gmail.com](mailto:nigilconnects@gmail.com)
 
