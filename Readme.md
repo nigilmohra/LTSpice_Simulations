@@ -3,7 +3,6 @@ This repository contains SPICE simulations carried out during my bachelor's as a
 
 **_Notice_** : _There might be mistakes in the simulations or calculations. If you find any, feel free to report them at:_ [nigilconnects@gmail.com](mailto:nigilconnects@gmail.com)
 
-![image](https://github.com/user-attachments/assets/dfb9b8b0-85f7-4cac-8b64-5449955939f6)
-<img src="https://github.com/favicon.ico](https://github.com/user-attachments/assets/dfb9b8b0-85f7-4cac-8b64-5449955939f6" width="50">
+-- **Organized** --
 
 
