@@ -1,2 +1,1 @@
-# SPICE Libraries
-This file contains schematics and netlists of circuits that are not available in the default version of LTSpice. 
+**_SPICE Libraries_** : _This zip folder contains schematics and netlists of circuits that are not included in the default version of LTSpice._
